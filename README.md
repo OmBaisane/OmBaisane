@@ -1,15 +1,16 @@
-# Hi, I'm Om Baisane 👋
+# Hi there, I'm Om Baisane 👋
 
-I'm a Frontend Developer specializing in the React ecosystem and MERN stack. I build robust web applications with a focus on clean component architecture and scalable backend integration. 
+I'm a Frontend Developer specializing in the React ecosystem and MERN stack. I enjoy building scalable, responsive web applications and turning complex problems into clean, efficient code.
 
-## 🛠 Tech Stack
-* **Frontend:** React.js, Next.js (App Router), Angular, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express.js, MongoDB, Socket.IO, PHP, MySQL
-* **Tools:** Git, Postman, Vercel
+### 🛠️ Tech Stack & Tools
+- **Frontend:** React.js, Next.js, Angular, JavaScript (ES6+), HTML5, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, Socket.IO, PHP, MySQL
+- **Tools & Platforms:** Git, GitHub, Postman, Vercel
 
-## 🚀 Featured Work
-* **[DevPostify](link):** A full-stack Next.js platform utilizing Server Components and API routes for optimized content delivery.
-* **[FlowBase](link):** A real-time task management dashboard built with the MEAN stack, featuring live updates and data analytics. 
+### 🚀 Featured Projects
+- **[DevPostify](https://github.com/OmBaisane/DevPostify):** Full-stack blogging platform built with Next.js App Router and Server Components.
+- **[FlowBase](https://github.com/OmBaisane/FlowBase-Real-Time-Management-System):** Real-time task management dashboard utilizing the MEAN stack and Socket.IO.
 
-## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/om-baisane) | ombaisane29@gmail.com | [Portfolio/Website](link)
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/om-baisane](https://www.linkedin.com/in/om-baisane)
+- **Email:** ombaisane29@gmail.com
