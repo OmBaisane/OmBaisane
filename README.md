@@ -1,15 +1,16 @@
 # Hi there, I'm Om Baisane 👋
 
-I'm a Frontend Developer specializing in the React ecosystem and MERN stack. I enjoy building scalable, responsive web applications and turning complex problems into clean, efficient code.
+I'm a Frontend Developer focused on building clean and responsive web applications using React and TypeScript.  
+Currently exploring Next.js and backend fundamentals as I work towards full-stack MERN development.
 
 ### 🛠️ Tech Stack & Tools
-- **Frontend:** React.js, Next.js, Angular, JavaScript (ES6+), HTML5, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, Socket.IO, PHP, MySQL
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, Socket.IO
 - **Tools & Platforms:** Git, GitHub, Postman, Vercel
 
 ### 🚀 Featured Projects
-- **[DevPostify](https://github.com/OmBaisane/DevPostify):** Full-stack blogging platform built with Next.js App Router and Server Components.
-- **[FlowBase](https://github.com/OmBaisane/FlowBase-Task-Manager):** Real-time task management dashboard utilizing the MEAN stack and Socket.IO.
+- **[DevPostify](https://github.com/OmBaisane/DevPostify):** Blog application built with Next.js featuring CRUD operations, API routes, and server components.
+- **[FlowBase](https://github.com/OmBaisane/FlowBase-Task-Manager):** Real-time task manager with CRUD functionality and Socket.IO integration.
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/om-baisane](https://www.linkedin.com/in/om-baisane)
