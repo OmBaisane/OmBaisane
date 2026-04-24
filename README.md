@@ -9,7 +9,7 @@ I'm a Frontend Developer specializing in the React ecosystem and MERN stack. I e
 
 ### 🚀 Featured Projects
 - **[DevPostify](https://github.com/OmBaisane/DevPostify):** Full-stack blogging platform built with Next.js App Router and Server Components.
-- **[FlowBase](https://github.com/OmBaisane/FlowBase-Real-Time-Task-Management-System):** Real-time task management dashboard utilizing the MEAN stack and Socket.IO.
+- **[FlowBase](https://github.com/OmBaisane/FlowBase-Task-Manager):** Real-time task management dashboard utilizing the MEAN stack and Socket.IO.
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/om-baisane](https://www.linkedin.com/in/om-baisane)
