@@ -9,10 +9,12 @@ Currently exploring Next.js and backend fundamentals as I work towards full-stac
 - **Tools & Platforms:** Git, GitHub, Postman, Vercel
 
 ### 🚀 Featured Projects
-- **[DevPostify](https://github.com/OmBaisane/DevPostify):** Blog application built with Next.js featuring CRUD operations, API routes, and server components.
+- **[DevPostify](https://github.com/OmBaisane/DevPostify):** - Full-stack blog application built with Next.js featuring CRUD operations, API routes, and MongoDB integration.
+
 - **[TaskZen](https://github.com/OmBaisane/TaskZen):** React + TypeScript task manager with CRUD, filtering, and localStorage persistence.
+
 - **[FlowBase](https://github.com/OmBaisane/FlowBase-Task-Manager):** Real-time task manager with Socket.IO and role-based access.
 
 ### 📫 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/om-baisane  
-- **Email:** ombaisane29@gmail.com- **Email:** ombaisane29@gmail.com
+- **Email:** ombaisane29@gmail.com
