@@ -43,5 +43,5 @@ Real-time task manager with Socket.IO and role-based access.
 
 ## 📫 Let's Connect
 
-- LinkedIn: (https://www.linkedin.com/in/om-baisane-b96625346)
+- LinkedIn: https://www.linkedin.com/in/om-baisane-b96625346
 - Email: ombaisane29@gmail.com
