@@ -1,20 +1,47 @@
 # Hi there, I'm Om Baisane 👋
 
-I'm a Frontend Developer focused on building clean and responsive web applications using React and TypeScript.  
-Currently exploring Next.js and backend fundamentals as I work towards full-stack MERN development.
+Frontend Developer focused on building modern, scalable, and user-friendly web applications using React, Next.js, and TypeScript.  
+Currently expanding into full-stack development with the MERN stack.
 
-### 🛠️ Tech Stack & Tools
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, Socket.IO
-- **Tools & Platforms:** Git, GitHub, Postman, Vercel
+---
 
-### 🚀 Featured Projects
-- **[DevPostify](https://github.com/OmBaisane/DevPostify):** - Full-stack blog application built with Next.js featuring CRUD operations, API routes, and MongoDB integration.
+## 🚀 Portfolio
 
-- **[TaskZen](https://github.com/OmBaisane/TaskZen):**  A feature-rich task manager built with React + TypeScript, including CRUD, search, filtering, dark mode, and persistent storage.
+Check out my personal portfolio showcasing my projects and skills:
 
-- **[FlowBase](https://github.com/OmBaisane/FlowBase-Task-Manager):** Real-time task manager with Socket.IO and role-based access.
+🔗 https://portfolio-nine-phi-ry8fa70ws1.vercel.app/
 
-### 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/om-baisane  
-- **Email:** ombaisane29@gmail.com
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Postman, Vercel  
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 DevPostify
+Full-stack social platform built with Next.js featuring authentication, CRUD operations, API routes, and MongoDB integration.  
+🔗 https://github.com/OmBaisane/DevPostify
+
+---
+
+### ✅ TaskZen
+Modern task manager built with React + TypeScript, featuring CRUD, filtering, dark mode, and persistent storage.  
+🔗 https://github.com/OmBaisane/TaskZen
+
+---
+
+### ⚡ FlowBase
+Real-time task manager with Socket.IO and role-based access.  
+🔗 https://github.com/OmBaisane/FlowBase-Task-Manager
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/om-baisane  
+- Email: ombaisane29@gmail.com
