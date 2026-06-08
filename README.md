@@ -1,7 +1,8 @@
 # Hi there, I'm Om Baisane 👋
 
-Frontend Developer focused on building modern, scalable, and user-friendly web applications using React, Next.js, and TypeScript.  
-Currently expanding into full-stack development with the MERN stack.
+I'm a Full-Stack Developer focused on building clean and responsive web applications using React, Next.js, Node.js, and MongoDB.
+
+I enjoy turning ideas into real projects and continuously improving my frontend and backend development skills through hands-on building.
 
 ---
 
