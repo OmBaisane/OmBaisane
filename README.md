@@ -1,4 +1,4 @@
-##Hi there, I'm Om Baisane 👋
+Hi there, I'm Om Baisane 👋
 
 Full-Stack Developer focused on building modern web applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB.
 
@@ -6,7 +6,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 
 ---
 
-#🚀 Portfolio
+🚀 Portfolio
 
 🔗 https://portfolio-nine-phi-ry8fa70ws1.vercel.app/
 
@@ -14,7 +14,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 
 🛠️ Tech Stack & Tools
 
-#Frontend
+Frontend
 
 - React.js
 - Next.js
@@ -23,7 +23,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 - HTML5
 - Tailwind CSS
 
-#Backend
+Backend
 
 - Node.js
 - Express.js
@@ -31,7 +31,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 - Mongoose
 - JWT Authentication
 
-#Tools & Platforms
+Tools & Platforms
 
 - Git
 - GitHub
@@ -41,9 +41,9 @@ I enjoy transforming ideas into real products and continuously improving my fron
 
 ---
 
-#🔥 Featured Projects
+🔥 Featured Projects
 
-#🌐 DevPostify
+🌐 DevPostify
 
 Full-stack social platform built with Next.js, MongoDB, authentication, CRUD operations, API routes, and modern UI/UX.
 
@@ -53,11 +53,11 @@ Full-stack social platform built with Next.js, MongoDB, authentication, CRUD ope
 
 ---
 
-#🛍️ Shiv Fashion Store (First Client Project)
+🛍️ Shiv Fashion Store (First Client Project)
 
 First client project built for a local fashion business featuring product management, order management, admin dashboard, Cloudinary image uploads, authentication, and production deployment.
 
-#Features
+Features
 
 - Product Management
 - Order Management
@@ -74,7 +74,7 @@ First client project built for a local fashion business featuring product manage
 
 ---
 
-#✅ TaskZen
+✅ TaskZen
 
 Modern task manager built with React + TypeScript featuring CRUD operations, filtering, dark mode, and persistent storage.
 
@@ -84,7 +84,7 @@ Modern task manager built with React + TypeScript featuring CRUD operations, fil
 
 ---
 
-#⚡ FlowBase
+⚡ FlowBase
 
 Real-time task management platform featuring Socket.IO integration and role-based access.
 
@@ -92,7 +92,7 @@ Real-time task management platform featuring Socket.IO integration and role-base
 
 ---
 
-#🎯 Current Focus
+🎯 Current Focus
 
 - Frontend + Full-Stack Polish
 - Advanced Next.js
@@ -102,7 +102,7 @@ Real-time task management platform featuring Socket.IO integration and role-base
 
 ---
 
-#📈 Current Journey
+📈 Current Journey
 
 ✅ React Development
 
@@ -120,7 +120,7 @@ Real-time task management platform featuring Socket.IO integration and role-base
 
 ---
 
-#📫 Let's Connect
+📫 Let's Connect
 
 LinkedIn
 
