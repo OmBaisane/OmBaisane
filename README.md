@@ -1,4 +1,4 @@
-##Hi there, I'm Om Baisane 👋
+Hi there, I'm Om Baisane 👋
 
 Full-Stack Developer focused on building modern web applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB.
 
