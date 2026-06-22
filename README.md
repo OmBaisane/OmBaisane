@@ -1,4 +1,4 @@
-Hi there, I'm Om Baisane 👋
+##Hi there, I'm Om Baisane 👋
 
 Full-Stack Developer focused on building modern web applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB.
 
@@ -6,7 +6,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 
 ---
 
-🚀 Portfolio
+#🚀 Portfolio
 
 🔗 https://portfolio-nine-phi-ry8fa70ws1.vercel.app/
 
@@ -14,7 +14,7 @@ I enjoy transforming ideas into real products and continuously improving my fron
 
 🛠️ Tech Stack & Tools
 
-Frontend
+#Frontend
 
 - React.js
 - Next.js
@@ -23,7 +23,7 @@ Frontend
 - HTML5
 - Tailwind CSS
 
-Backend
+#Backend
 
 - Node.js
 - Express.js
@@ -31,7 +31,7 @@ Backend
 - Mongoose
 - JWT Authentication
 
-Tools & Platforms
+#Tools & Platforms
 
 - Git
 - GitHub
@@ -41,21 +41,23 @@ Tools & Platforms
 
 ---
 
-🔥 Featured Projects
+#🔥 Featured Projects
 
-🌐 DevPostify
+#🌐 DevPostify
 
 Full-stack social platform built with Next.js, MongoDB, authentication, CRUD operations, API routes, and modern UI/UX.
 
-🔗 https://github.com/OmBaisane/DevPostify
+🔗 GitHub: https://github.com/OmBaisane/DevPostify
+
+🌍 Live: https://dev-postify.vercel.app/
 
 ---
 
-🛍️ Shiv Fashion Store (Client Project)
+#🛍️ Shiv Fashion Store (First Client Project)
 
-Real-world e-commerce website developed for a local fashion business.
+First client project built for a local fashion business featuring product management, order management, admin dashboard, Cloudinary image uploads, authentication, and production deployment.
 
-Features:
+#Features
 
 - Product Management
 - Order Management
@@ -64,30 +66,33 @@ Features:
 - JWT Authentication
 - WhatsApp & Call Integration
 - MongoDB Database
+- Responsive Design
 
-🔗 https://github.com/OmBaisane/shiv-fashion-store
+🔗 GitHub: https://github.com/OmBaisane/shiv-fashion-store
 
 🌍 Live: https://shiv-fashion-store.vercel.app/
 
 ---
 
-✅ TaskZen
+#✅ TaskZen
 
 Modern task manager built with React + TypeScript featuring CRUD operations, filtering, dark mode, and persistent storage.
 
-🔗 https://github.com/OmBaisane/TaskZen
+🔗 GitHub: https://github.com/OmBaisane/TaskZen
+
+🌍 Live: https://task-zen-omega.vercel.app/
 
 ---
 
-⚡ FlowBase
+#⚡ FlowBase
 
-Real-time task management platform with Socket.IO and role-based access.
+Real-time task management platform featuring Socket.IO integration and role-based access.
 
-🔗 https://github.com/OmBaisane/FlowBase-Task-Manager
+🔗 GitHub: https://github.com/OmBaisane/FlowBase-Task-Manager
 
 ---
 
-🎯 Current Focus
+#🎯 Current Focus
 
 - Frontend + Full-Stack Polish
 - Advanced Next.js
@@ -97,10 +102,30 @@ Real-time task management platform with Socket.IO and role-based access.
 
 ---
 
-📫 Let's Connect
+#📈 Current Journey
 
-LinkedIn:
+✅ React Development
+
+✅ TypeScript Development
+
+✅ Next.js Full-Stack Development
+
+✅ Backend Development (Node.js, Express.js, MongoDB)
+
+✅ Production Deployments
+
+✅ First Client Project Delivered
+
+🚀 Currently progressing through the Frontend + Full-Stack Polish phase
+
+---
+
+#📫 Let's Connect
+
+LinkedIn
+
 https://www.linkedin.com/in/om-baisane-b96625346
 
-Email:
+Email
+
 ombaisane29@gmail.com
