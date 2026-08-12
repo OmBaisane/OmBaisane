@@ -122,7 +122,7 @@ REST API built with Node.js, Express, MongoDB, and JWT Authentication featuring 
 https://portfolio-nine-phi-ry8fa70ws1.vercel.app/
 
 💼 LinkedIn  
-https://www.linkedin.com/in/om-baisane-b96625346
+https://www.linkedin.com/in/om-baisane
 
 💻 GitHub  
 https://github.com/OmBaisane
