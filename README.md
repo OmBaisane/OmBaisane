@@ -1,6 +1,6 @@
 # Hi there, I'm Om Baisane 👋
 
-**Full Stack JavaScript Developer** focused on building modern, scalable web applications using **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**.
+**Full Stack JavaScript Developer** focused on building modern, production-grade web applications using **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**.
 
 I enjoy transforming ideas into real-world products and continuously improving my frontend, backend, and full-stack development skills through hands-on projects and solving practical problems.
 
@@ -16,25 +16,25 @@ I enjoy transforming ideas into real-world products and continuously improving m
 
 ### Frontend
 
-- React.js
-- Next.js
+- React.js (React 19)
+- Next.js (App Router)
 - TypeScript
 - JavaScript (ES6+)
-- HTML5
+- HTML5 & Semantic Landmarks
 - Tailwind CSS
 
-### Backend
+### Backend & API
 
 - Node.js
 - Express.js
-- MongoDB
-- Mongoose
-- JWT Authentication
+- MongoDB Atlas & Mongoose ODM
+- Zod Validation
+- Stateless JWT Authentication (HTTP-Only Secure Cookies)
+- RESTful API Architecture
 
 ### Tools & Platforms
 
-- Git
-- GitHub
+- Git & GitHub
 - Postman
 - Cloudinary
 - Vercel
@@ -45,13 +45,15 @@ I enjoy transforming ideas into real-world products and continuously improving m
 
 # 🌟 Featured Projects
 
-## 🚀 DevPostify
+## 🚀 DevPostify Nova
 
-Production-ready full-stack social platform built with Next.js, TypeScript, MongoDB, and Server Actions featuring CRUD operations, API routes, and a modern responsive UI.
+Developer-first professional publishing platform for software engineers to share technical breakdowns, architecture insights, and code without algorithmic social media noise. 
 
-🔗 GitHub: https://github.com/OmBaisane/DevPostify
+Architected with a decoupled Next.js App Router frontend and an Express REST API backend. Features AST-based Markdown with Prism.js code syntax highlighting, full-text search with ReDoS mitigation, and cross-domain HTTP-only cookie authentication.
 
-🌍 Live: https://dev-postify.vercel.app/
+🔗 GitHub: https://github.com/OmBaisane/DevPostify-Nova  
+🌍 Live App: https://dev-postify-nova.vercel.app  
+⚙️ API Health: https://devpostify-nova-api.onrender.com/api/health  
 
 ---
 
@@ -59,9 +61,8 @@ Production-ready full-stack social platform built with Next.js, TypeScript, Mong
 
 Production-ready fashion e-commerce website developed for a real local business with authentication, product management, admin dashboard, Cloudinary image uploads, and responsive design.
 
-🔗 GitHub: https://github.com/OmBaisane/shiv-fashion-store
-
-🌍 Live: https://shiv-fashion-store.vercel.app/
+🔗 GitHub: https://github.com/OmBaisane/shiv-fashion-store  
+🌍 Live: https://shiv-fashion-store.vercel.app/  
 
 ---
 
@@ -69,9 +70,8 @@ Production-ready fashion e-commerce website developed for a real local business 
 
 Modern task management application built with React and TypeScript featuring CRUD operations, filtering, local storage persistence, dark mode, and responsive UI.
 
-🔗 GitHub: https://github.com/OmBaisane/TaskZen
-
-🌍 Live: https://task-zen-omega.vercel.app/
+🔗 GitHub: https://github.com/OmBaisane/TaskZen  
+🌍 Live: https://task-zen-omega.vercel.app/  
 
 ---
 
@@ -79,7 +79,7 @@ Modern task management application built with React and TypeScript featuring CRU
 
 Real-time full-stack task management platform built with Angular, Node.js, Express, MongoDB, Socket.IO, and JWT Authentication featuring role-based access control.
 
-🔗 GitHub: https://github.com/OmBaisane/FlowBase-Task-Manager
+🔗 GitHub: https://github.com/OmBaisane/FlowBase-Task-Manager  
 
 ---
 
@@ -87,19 +87,18 @@ Real-time full-stack task management platform built with Angular, Node.js, Expre
 
 REST API built with Node.js, Express, MongoDB, and JWT Authentication featuring secure authentication, CRUD operations, protected routes, and streak tracking.
 
-🔗 GitHub: https://github.com/OmBaisane/Streakify-API
-
-🌍 Live: https://streakify-api.onrender.com/
+🔗 GitHub: https://github.com/OmBaisane/Streakify-API  
+🌍 Live: https://streakify-api.onrender.com/  
 
 ---
 
 # 🎯 Current Focus
 
-- Frontend + Full-Stack Polish
-- Advanced React & Next.js
-- Production-Level Full-Stack Development
-- Scalable Application Architecture
-- Modern UI/UX
+- Production-Grade Full-Stack Architecture
+- Advanced React & Next.js App Router
+- Type-Safe Systems (TypeScript & Zod)
+- Scalable Database Modeling & Indexing
+- Accessible & High-Contrast Developer UI/UX
 
 ---
 
@@ -107,12 +106,11 @@ REST API built with Node.js, Express, MongoDB, and JWT Authentication featuring 
 
 - ✅ React Development
 - ✅ TypeScript Development
-- ✅ Next.js Full-Stack Development
-- ✅ Backend Development (Node.js, Express.js & MongoDB)
-- ✅ REST API Development
-- ✅ Production Deployments
-- ✅ First Client Project Delivered
-- 🚀 Preparing for DevPostify Pro and NeoCart 2.0
+- ✅ Next.js Full-Stack Architecture
+- ✅ Backend & REST API Engineering (Node.js, Express.js & MongoDB)
+- ✅ Cross-Domain Production Deployments (Vercel & Render)
+- ✅ Delivered First Commercial Client Project
+- 🚀 Hardened & Deployed DevPostify Nova V1
 
 ---
 
@@ -132,4 +130,4 @@ ombaisane29@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always learning, building, and improving through real-world projects.
+⭐ Thanks for visiting my profile! I'm always learning, building, and improving through real-world engineering projects.
